@@ -14,3 +14,4 @@ I originally wanted it to continously display an array of colours that overlap t
 
 To me an error is a mistake that wasn't supposed to happen, that means it could have been prevented. 
 So when you use the word "error" to describe something, it is usually not something that was intentionally done.
+I see an error as something that needs to be fixed.
