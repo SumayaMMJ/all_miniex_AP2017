@@ -10,6 +10,9 @@ In my process I made the 3 static rect() pretty easily but I had some trouble wi
 The most troubling was getting the glitch rect() to work when you moved the mouse. I later found out it was because that the function mouseMoved() was supposed to be after function draw(). 
 I originally wanted it to continously display an array of colours that overlap to make it look more "glithy", but I never really found out how. 
 
+**What constitutes a program?**
+I would say that a program is made of a lot of code. This code is what constitutes the capaility of the program and its purpose. 
+
 **What is Error to me?**
 
 To me an error is a mistake that wasn't supposed to happen, that means it could have been prevented. 
