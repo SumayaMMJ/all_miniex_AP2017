@@ -2,7 +2,7 @@
 
 link -> https://rawgit.com/SumayaMMJ/all_miniex_AP2017/master/mini_ex7/index.html
 
-[!ScreenShot](https://raw.githubusercontent.com/SumayaMMJ/all_miniex_AP2017/master/mini_ex7/screenshot.JPG)
+![ScreenShot](https://raw.githubusercontent.com/SumayaMMJ/all_miniex_AP2017/master/mini_ex7/screenshot.JPG)
 
 My program is suppossed to be leading the user on, in to thinking that something is awaiting, an event as a result of clicking on the buttons.
 By giving the user the initial impression of some sort of reward for clicking on the buttons marked with exclamation marks (the form of the buttons are also positioned in the form of an exclamation mark, to help lead this impression).
