@@ -9,6 +9,7 @@ Chosen Coding Challenge: #4 Purple Rain (https://www.youtube.com/watch?v=KkyIDI6
 
 A slider that controls the FrameRate value. I set the parameters for the slider, I also changed a few values in Daniel Shiffmans sketch, on how fast the rain is supposed to fall when the slider is untouched. 
 Although I now realize that it might be a bit pointless as you can change the FrameRate with the slider anyway...
+
 I thought of making a slider, because when I was playing around with the syntax for the yspeed(speed of the raindrops), I found the rain looked a bit more realistic when going a bit faster than the original setting. But then the slower setting made it look more beautiful as well somehow. So I wanted the user to be able to play around with the FrameRate setting, to find their preferred speed.
 
 **Difficulty of this weeks miniex**
