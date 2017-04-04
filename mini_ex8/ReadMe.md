@@ -1,4 +1,5 @@
-**Control the Purple Rain**
+**Control the Purple Rain** 
+link --> (https://rawgit.com/SumayaMMJ/all_miniex_AP2017/f3055bcd4f2e37bdbaa2d3dbf705ee4d0410ce94/mini_ex8/index.html)
 
 Chosen Coding Challenge: #4 Purple Rain (https://www.youtube.com/watch?v=KkyIDI6rQJI)
 ![ScreenShot](https://rawgit.com/SumayaMMJ/all_miniex_AP2017/master/mini_ex8/sketchScreenShot.JPG)
