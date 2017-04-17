@@ -19,10 +19,13 @@ Orange: 15 - 25
 
 Red: above 26 
 
-##Process##
+**Process**
 
 I followed Daniel Shiffmanns Videos quite a lot and used Winnies code as well for inspiration on deviding the url in parts, to later put them together in a string.
 
 I had other ideas I wanted to try using the New York Times API, where you could input a word in a submit box like in this program, and then have the world visualized in circles on the screen based on the amount of hits.
 But then I realized it was almost basically the same as Winnies program so I scratched the program even though I was pretty far in the process (though I also stumbled upon some troubles with the circles on screen, which made me reconsider how they should be presented).
 
+**Thoughts on Big Data**
+
+The programmer is the one who decides how the big data should be represented in the program, and what values of aesthetics it should hold. The programmer is the one who decideds what political direction or implications the code holds, as well as what cultural issues that are addressed - thats why the programmer decides the aesthetical value, whether they are conscious of this or not.
